@@ -34,9 +34,9 @@ const Contact = () => {
         "template_17us8im",
         {
           from_name: formData.name,
-          to_name: "Ali",
+          to_name: "Yashraj",
           from_email: formData.email,
-          to_email: "AliSanatiDev@gmail.com",
+          to_email: "yashrajrai1234@gmail.com",
           message: formData.message,
         },
         "pn-Bw_mS1_QQdofuV"
