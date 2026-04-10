@@ -8,7 +8,7 @@ export default function Companies() {
 			<Marquee
 				className="text-[#ffeb69]"
 				titile1="Let's build"
-				titile2="good companies"
+				titile2="Let's build"
 			/>
 			<div className="w-full py-20 flex justify-center items-center padding-x">
 				<div className="w-[70%] xm:w-full sm:w-full flex flex-col gap-10">
@@ -22,7 +22,7 @@ export default function Companies() {
 							{t("companiesPara")}
 						</p>
 					</div>
-					<div>
+					{/* <div>
 						<p className="text-[23px] text-[#ffeb69] leading-normal tracking-tight">
 							{t("companiesPara1")}
 						</p>
@@ -31,7 +31,7 @@ export default function Companies() {
 						<p className="text-[23px] text-[#ffeb69] leading-normal tracking-tight">
 							{t("companiesPara2")}
 						</p>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</>

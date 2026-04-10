@@ -102,7 +102,7 @@ export default function Hero() {
 				<span
 					className="flex text-[250px] text-[#9FE870] font-bold leading-[200px] sm:leading-[75px] xm:leading-[75px] tracking-tighter mx-auto whitespace-nowrap text-center mt-20 xm:mt-0 sm:mt-0"
 					ref={textRef}>
-					{"SupaDupa".split("").map((item: string, i: number) => (
+					{"YashRaj".split("").map((item: string, i: number) => (
 						<motion.p
 							initial={{ y: "100%" }}
 							whileInView={{ y: 0 }}

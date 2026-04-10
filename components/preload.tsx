@@ -10,14 +10,11 @@ export default function PreLoad() {
 		setDimension({ width: window.innerWidth, height: window.innerHeight });
 	}, []);
 
-	const initialPath = `M0 0 L${dimension.width} 0 L${dimension.width} ${
-		dimension.height
-	} Q${dimension.width / 2} ${dimension.height + 300} 0 ${
-		dimension.height
-	}  L0 0`;
-	const targetPath = `M0 0 L${dimension.width} 0 L${dimension.width} ${
-		dimension.height
-	} Q${dimension.width / 2} ${dimension.height} 0 ${dimension.height}  L0 0`;
+	const initialPath = `M0 0 L${dimension.width} 0 L${dimension.width} ${dimension.height
+		} Q${dimension.width / 2} ${dimension.height + 300} 0 ${dimension.height
+		}  L0 0`;
+	const targetPath = `M0 0 L${dimension.width} 0 L${dimension.width} ${dimension.height
+		} Q${dimension.width / 2} ${dimension.height} 0 ${dimension.height}  L0 0`;
 
 	const curve = {
 		initial: {
@@ -52,7 +49,7 @@ export default function PreLoad() {
 								ease: [0.76, 0, 0.24, 1],
 							}}
 							className="text-[#163300] text-[40px] xm:text-[20px] sm:text-[20px] leading-tight tracking-tighter font-medium">
-							Let&apos;s Start
+							Let&apos;s Build
 						</motion.p>
 						<motion.img
 							initial={{ rotate: 0 }}

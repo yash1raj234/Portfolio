@@ -9,7 +9,6 @@ import {
 	arrowLeft,
 	arrowRight,
 	collaborationCircle,
-	hartman1,
 	hartmanBlack,
 	saion1,
 	saionBlack,
@@ -100,10 +99,13 @@ export default function Collaboration() {
 									</div>
 								</div>
 								<motion.div className="w-1/2 xm:w-full sm:w-full flex items-center justify-center relative">
-									<Image
-										src={hartman1}
-										alt="img"
-										className="w-full object-cover"
+									<video
+										src="/Nobroker.mp4"
+										autoPlay
+										muted
+										loop
+										playsInline
+										className="w-full object-cover rounded-[20px]"
 									/>
 									<motion.div
 										animate={{ rotate: [-360, 360] }}

@@ -29,8 +29,8 @@ export default function Whatwedo() {
 			</motion.div>
 			<Marquee
 				className="text-[#260A2F]"
-				titile1="What we do"
-				titile2="What we do"
+				titile1="What I've Built"
+				titile2="What I've Built"
 			/>
 			<div className="w-full flex items-center justify-center">
 				<div className="w-[80%] xm:w-full sm:w-full xm:padding-x sm:padding-x">

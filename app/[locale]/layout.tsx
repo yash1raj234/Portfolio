@@ -2,6 +2,7 @@ import "@/styles/globals.css";
 import type { Metadata } from "next";
 import { getMessages } from "next-intl/server";
 import { NextIntlClientProvider } from "next-intl";
+import MusicPlayer from "@/components/music-player";
 
 export const metadata: Metadata = {
 	title: "SupaDupa - Let's build some good companies!",
@@ -21,6 +22,7 @@ export default async function RootLayout({
 			<body>
 				<NextIntlClientProvider messages={messages}>
 					{children}
+					<MusicPlayer />
 				</NextIntlClientProvider>
 			</body>
 		</html>

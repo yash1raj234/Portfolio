@@ -13,8 +13,8 @@ export default function Footer() {
 				id="get-in-touch"
 				className="w-full h-screen flex flex-col items-center padding-x justify-between pt-5">
 				<Marquee
-					titile1="Get in touch"
-					titile2="Get in touch"
+					titile1="Let's build something"
+					titile2="Let's build something"
 					className="text-[#ffeb69]"
 				/>
 				<div className="w-[80%] flex flex-col gap-10 xm:w-full sm:w-full">
@@ -54,7 +54,7 @@ export default function Footer() {
 								<Link
 									className="text-[30px] font-semibold text-[#9FE870] leading-tight tracking-tight"
 									href="tell:+31 53 234 0188">
-									+31 53 234 0188
+									+91 97701 84915
 								</Link>
 							</div>
 							<div className="flex flex-col">
@@ -63,8 +63,8 @@ export default function Footer() {
 								</p>
 								<Link
 									className="text-[30px] font-semibold text-[#9FE870] leading-tight tracking-tight"
-									href="/">
-									@SupaDupaNL
+									href="https://www.linkedin.com/in/yashrajrai/">
+									@YashRaj
 								</Link>
 							</div>
 						</div>
@@ -75,8 +75,8 @@ export default function Footer() {
 								</p>
 								<Link
 									className="text-[30px] font-semibold text-[#9FE870] leading-tight tracking-tight"
-									href="mailTo:hello@supadupa.nl">
-									hello@supadupa.nl
+									href="mailTo:yashrajrai1234@gmail.com">
+									yashrajrai1234@gmail.com
 								</Link>
 							</div>
 							<div className="flex flex-col">
@@ -86,7 +86,7 @@ export default function Footer() {
 								<Link
 									className="text-[30px] font-semibold text-[#9FE870] leading-tight tracking-tight"
 									href="/">
-									@SupaDupaNL
+									@yashraajjj
 								</Link>
 							</div>
 						</div>
@@ -95,12 +95,12 @@ export default function Footer() {
 						<div className="flex flex-col gap-10">
 							<div className="flex flex-col">
 								<p className="text-[16px] text-[#9FE870] leading-tight tracking-tight">
-									Enschede
+									Location
 								</p>
 								<Link
 									className="text-[30px] font-semibold text-[#9FE870] leading-tight tracking-tight"
 									href="/">
-									Langestraat 45a, <br /> 7511 HB
+									Bangaluru, <br /> Karnataka
 								</Link>
 							</div>
 						</div>
@@ -134,7 +134,7 @@ export default function Footer() {
 								ease: "easeInOut",
 							}}
 							className="text-[#9FE870] text-sm overflow-hidden">
-							Supa Dupa 2024
+							Yashraj rai 2026
 						</motion.h2>
 						<motion.h2
 							initial={{ y: "100%" }}
@@ -147,7 +147,7 @@ export default function Footer() {
 								ease: "easeInOut",
 							}}
 							className="text-[#9FE870] text-sm overflow-hidden">
-							Privacy Statement
+							Peace Out
 						</motion.h2>
 					</div>
 				</div>
