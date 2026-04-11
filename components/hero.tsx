@@ -180,7 +180,7 @@ export default function Hero() {
 							height={20}
 							className="h-fit"
 						/>
-						<h1 className="whitespace-nowrap text-[20px] uppercase text-[#9FE870] font-normal leading-tight tracking-tight rotate-90 absolute -bottom-5 -left-[73px]">
+						<h1 className="whitespace-nowrap text-[20px] uppercase text-[#9FE870] font-normal leading-tight tracking-tight rotate-90 absolute -bottom-16 -left-[73px]">
 							{t("start")}
 						</h1>
 					</div>

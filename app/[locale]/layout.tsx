@@ -5,8 +5,8 @@ import { NextIntlClientProvider } from "next-intl";
 import MusicPlayer from "@/components/music-player";
 
 export const metadata: Metadata = {
-	title: "SupaDupa - Let's build some good companies!",
-	description: "SupaDupa website clone by devwithzain",
+	title: "Yashraj",
+	description: "Portfolio of Yashraj Rai",
 };
 
 export default async function RootLayout({

@@ -1,10 +1,10 @@
 {
 	"navbarContent": {
-		"our-ambition": "My ambition",
-		"what-we-do": "What I do",
-		"transformation": "Transformation",
-		"our-impact": "My impact",
-		"get-in-touch": "Get in touch"
+		"our-ambition": "What I do",
+		"what-we-do": "Projects",
+		"transformation": "Skills",
+		"our-impact": "Experience",
+		"get-in-touch": "Contact"
 	},
 	"heroContent": {
 		"welcome-to-the-world-of": "Welcome to the world of",
@@ -13,20 +13,20 @@
 		"start": "start exploring"
 	},
 	"journeyContent": {
-		"journeyContent": "I build complete products from scratch pixel-perfect frontend, scalable backend, cloud infrastructure and DevOps all of it, solo, and shipped in days."
+		"journeyContent": "I build complete products from scratch pixel perfect frontend, scalable backend, cloud infrastructure and DevOps all of it, solo, and shipped in days."
 	},
 	"companiesContent": {
-		"companiesHeading": "Most engineers specialize. They go deep in one layer and hand off the rest. I went wide on purpose — frontend, backend, cloud infrastructure, DevOps pipelines — because I believe the best products are built by people who understand the entire system they're shipping.",
-		"companiesPara": "I combine years of engineering fundamentals with the leverage of modern AI to do what used to take entire teams. An idea walks in on Monday. A live, production-grade product walks out by Friday. That's not a claim — that's my workflow.",
-		"companiesPara1": "At the heart of every business lies a story waiting to be unfolded — a narrative interwoven with purpose and the joy of positive impact. This is why we believe businesses can be powerful forces for positive change, shaping a more sustainable and meaningful future.",
-		"companiesPara2": "At the heart of every business lies a story waiting to be unfolded — a narrative interwoven with purpose and the joy of positive impact. This is why we believe businesses can be powerful forces for positive change, shaping a more sustainable and meaningful future."
+		"companiesHeading": "Most engineers specialize. They go deep in one layer and hand off the rest. I went wide on purpose — frontend, backend, cloud infrastructure, DevOps pipelines  because I believe the best products are built by people who understand the entire system they're shipping.",
+		"companiesPara": "I combine years of engineering fundamentals with the leverage of modern AI to do what used to take entire teams. An idea walks in on Monday. A live, production grade product walks out by Friday. That's not a claim  that's my workflow.",
+		"companiesPara1": "At the heart of every business lies a story waiting to be unfolded  a narrative interwoven with purpose and the joy of positive impact. This is why we believe businesses can be powerful forces for positive change, shaping a more sustainable and meaningful future.",
+		"companiesPara2": "At the heart of every business lies a story waiting to be unfolded  a narrative interwoven with purpose and the joy of positive impact. This is why we believe businesses can be powerful forces for positive change, shaping a more sustainable and meaningful future."
 	},
 	"whatwedoContent": {
-		"whatwedoHeading": "I don't just write code. I architect systems, automate infrastructure, and ship products that scale — with AI at the core.",
+		"whatwedoHeading": "I don't just write code. I architect systems, automate infrastructure, and ship products that scale  with AI at the core.",
 		"title1": "Next.js · FastAPI · PostgreSQL · Supabase · Claude API · WeasyPrint · Twilio · Docker · AWS S3 · Terraform · Prometheus · GitHub Actions",
 		"heading1": "Patient",
 		"heading2": "Bridge",
-		"para1": "Patients fill a symptom form before they walk in. PatientBridge generates a structured AI summary, flags red flags, and gives the doctor full context before the consultation even starts — turning 3-minute appointments into focused ones.",
+		"para1": "Patients fill a symptom form before they walk in. PatientBridge generates a structured AI summary, flags red flags, and gives the doctor full context before the consultation even starts turning 3 minute appointments into focused ones.",
 		"href1": "See how it works →",
 		"bgColor1": "#260A2F",
 		"textColor1": "#FFD7EF",
@@ -42,7 +42,7 @@
 		"title3": "Next.js · FastAPI · Terraform · Docker · Jinja2 · Monaco Editor · Supabase · AWS ECS · Prometheus · Grafana · GitHub Actions · Railway",
 		"heading5": "Infra",
 		"heading6": "Chat",
-		"para3": "Describe your infrastructure in plain English. InfraChat generates production-ready Terraform and Docker Compose configs with security best practices, inline comments, and AWS cost estimates — no docs needed.",
+		"para3": "Describe your infrastructure in plain English. InfraChat generates production ready Terraform and Docker Compose configs with security best practices, inline comments, and AWS cost estimates  no docs needed.",
 		"href3": "Generate your infra →",
 		"bgColor3": "#163300",
 		"textColor3": "#9BE36D",
@@ -50,7 +50,7 @@
 		"title4": "Next.js · FastAPI · PostgreSQL · Supabase · pdfplumber · Gemini API · Docker · Railway · Vercel · GitHub Actions",
 		"heading7": "Resume ",
 		"heading8": "Radar",
-		"para4": "Upload your resume and a job description. ResumeRadar scores your ATS match, surfaces missing keywords, rewrites your bullet points, and generates a tailored cover letter — in under 60 seconds.",
+		"para4": "Upload your resume and a job description. ResumeRadar scores your ATS match, surfaces missing keywords, rewrites your bullet points, and generates a tailored cover letter  in under 60 seconds.",
 		"href4": "Try ResumeRadar →",
 		"bgColor4": "#320707",
 		"textColor4": "#FFD7EF",
@@ -65,30 +65,30 @@
 		"para1": "React, Tailwind, Framer Motion, and GSAP. I build interfaces that are fast, responsive, and animated  the kind users screenshot and send to their designer friends. No templates, no UI kits. Everything from scratch, with intent.",
 		"title2": "Engineer.",
 		"heading2": "Backend that never breaks.",
-		"para2": "FastAPI, PostgreSQL, Redis, WebSockets, and REST APIs built for scale. I design data models, optimize queries, handle auth, and structure services that other engineers can actually read and maintain — not just ones that pass the demo.",
+		"para2": "FastAPI, PostgreSQL, Redis, WebSockets, and REST APIs built for scale. I design data models, optimize queries, handle auth, and structure services that other engineers can actually read and maintain  not just ones that pass the demo.",
 		"title3": "Deploy.",
 		"heading3": "Ship it. Keep it alive.",
-		"para3": "Docker, Kubernetes, GitHub Actions, and zero-downtime pipelines. I write the Dockerfiles, define the Helm charts, configure the CI/CD, and make sure the thing that worked on localhost works exactly the same in production — at any scale, any hour.",
+		"para3": "Docker, Kubernetes, GitHub Actions, and zero downtime pipelines. I write the Dockerfiles, define the Helm charts, configure the CI/CD, and make sure the thing that worked on localhost works exactly the same in production at any scale, any hour.",
 		"title4": "Provision.",
 		"heading4": "Infrastructure as code, not as chaos.",
-		"para4": " Terraform, AWS, and cloud architecture designed for reliability. I provision entire environments from scratch — VPCs, RDS instances, Lambda functions, S3 buckets, IAM roles — with one command, versioned, repeatable, and auditable.",
+		"para4": " Terraform, AWS, and cloud architecture designed for reliability. I provision entire environments from scratch VPCs, RDS instances, Lambda functions, S3 buckets, IAM roles  with one command, versioned, repeatable, and auditable.",
 		"title5": "Automate.",
 		"heading5": "AI that does the work for you.",
-		"para5": " OpenAI API, LangChain, RAG pipelines, and n8n workflows. I build systems that think, decide, and act on their own — from AI research agents that deliver reports to Telegram, to LLM-powered DevOps assistants that handle incidents without waking anyone up."
+		"para5": " OpenAI API, LangChain, RAG pipelines, and n8n workflows. I build systems that think, decide, and act on their own — from AI research agents that deliver reports to Telegram, to LLM powered DevOps assistants that handle incidents without waking anyone up."
 	},
 	"ourImpactContent": {
 		"ourImpactHeading1": "Real world. Real systems. Real stakes.",
 		"ourImpactHeading2": "I don't have side project experience. I have production experience  on systems real users depend on, every day",
-		"title1": "I built a full property recommendation engine with FastAPI, PostgreSQL, and Redis — a system estimated at 3 months. I shipped it in 6 weeks, cut search latency by 45%, and did it on India's largest proptech platform with millions of users depending on it every single day.",
+		"title1": "I built a full property recommendation engine with FastAPI, PostgreSQL, and Redis  a system estimated at 3 months. I shipped it in 6 weeks, cut search latency by 45%, and did it on India's largest proptech platform with millions of users depending on it every single day.",
 		"heading1": "NoBroker Technologiest",
 		"para1": "Role: Software Developer Intern (Nov 2025 – Feb 2026)",
-		"title2": "I owned entire feature pipelines end to end GitHub Actions CI/CD, ArgoCD GitOps, Canary deployments on AWS EKS with Prometheus-driven automatic rollback. Deployment failures dropped 40%. API response times improved 35%. Not in staging. In production.",
+		"title2": "I owned entire feature pipelines end to end GitHub Actions CI/CD, ArgoCD GitOps, Canary deployments on AWS EKS with Prometheus driven automatic rollback. Deployment failures dropped 40%. API response times improved 35%. Not in staging. In production.",
 		"heading2": "NexTalk",
-		"para2": "Role: Back-End & DevOps Engineer Intern(May 2025 – Oct 2025)"
+		"para2": "Role: Back End & DevOps Engineer Intern(May 2025 – Oct 2025)"
 	},
 	"footerContent": {
-		"footerHeading1": "The world is not waiting for permission. Every great system, every product that changed how people live — it was built by someone who simply refused to believe it couldn't be done. I am that person. Are you?",
-		"footerHeading2": "If you have an idea, a problem, or just a vision — I have the stack, the drive, and the radical belief that we can build anything we put our minds to. Let's make something real.",
+		"footerHeading1": "The world is not waiting for permission. Every great system, every product that changed how people live  it was built by someone who simply refused to believe it couldn't be done. I am that person. Are you?",
+		"footerHeading2": "If you have an idea, a problem, or just a vision  I have the stack, the drive, and the radical belief that we can build anything we put our minds to. Let's make something real.",
 		"footerBtn": "Let's build together "
 	}
 }

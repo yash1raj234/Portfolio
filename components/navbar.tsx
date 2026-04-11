@@ -4,25 +4,14 @@ import Image from "next/image";
 import { links } from "@/constants";
 import TextHover from "./text-hover";
 import { navVariants } from "@/motion";
-import { useRouter } from "next/navigation";
 import { blackCircle, logo } from "@/public";
-import { useState, useTransition } from "react";
-import { useLocale, useTranslations } from "next-intl";
+import { useState } from "react";
+import { useTranslations } from "next-intl";
 import { AnimatePresence, motion } from "framer-motion";
 
 export default function Navbar() {
 	const t = useTranslations("navbarContent");
 	const [active, setActive] = useState(false);
-	const [isPending, startTransition] = useTransition();
-	const router = useRouter();
-	const currentLocale = useLocale();
-
-	const onSelectChange = () => {
-		const nextLocale = currentLocale === "en" ? "nl" : "en";
-		startTransition(() => {
-			router.replace(`/${nextLocale}`);
-		});
-	};
 
 	return (
 		<>
@@ -43,12 +32,6 @@ export default function Navbar() {
 					</Link>
 				</div>
 				<div className="flex gap-x-4">
-					<button
-						className="text-[17px] font-semibold uppercase text-[#260A2F] bg-secondary rounded-full leading-tight tracking-tight px-6 py-3 xm:py-2 sm:py-2 xm:px-4 sm:px-4"
-						onClick={onSelectChange}
-						disabled={isPending}>
-						{currentLocale === "nl" ? "en" : "nl"}
-					</button>
 
 					<div className="relative">
 						<button
