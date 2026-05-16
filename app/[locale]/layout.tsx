@@ -5,7 +5,7 @@ import { NextIntlClientProvider } from "next-intl";
 import MusicPlayer from "@/components/music-player";
 
 export const metadata: Metadata = {
-	title: "Yashraj",
+	title: "Portfolio!",
 	description: "Portfolio of Yashraj Rai",
 };
 

@@ -79,7 +79,10 @@ export default function Card() {
 							<Link
 								style={{ color: t("linkColor1") }}
 								className="text-[18px] font-normal leading-tight tracking-tight"
-								href="/">
+								href={t("url1")}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
 								{t("href1")}
 							</Link>
 							<div
@@ -133,7 +136,10 @@ export default function Card() {
 							<Link
 								style={{ color: t("linkColor2") }}
 								className="text-[18px] font-normal leading-tight tracking-tight"
-								href="/">
+								href={t("url2")}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
 								{t("href2")}
 							</Link>
 							<div
@@ -187,7 +193,10 @@ export default function Card() {
 							<Link
 								style={{ color: t("linkColor3") }}
 								className="text-[18px] font-normal leading-tight tracking-tight"
-								href="/">
+								href={t("url3")}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
 								{t("href3")}
 							</Link>
 							<div
@@ -241,7 +250,10 @@ export default function Card() {
 							<Link
 								style={{ color: t("linkColor4") }}
 								className="text-[18px] font-normal leading-tight tracking-tight"
-								href="/">
+								href={t("url4")}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
 								{t("href4")}
 							</Link>
 							<div
