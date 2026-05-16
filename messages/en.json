@@ -26,7 +26,7 @@
 		"title1": "Next.js · FastAPI · PostgreSQL · Supabase · pdfplumber · Gemini API · Docker · Railway · Vercel · GitHub Actions",
 		"heading1": "Patient",
 		"heading2": "Bridge",
-		"para1": "Patients fill a symptom form before they walk in. PatientBridge generates a structured AI summary, flags red flags, and gives the doctor full context before the consultation even starts — turning 3-minute appointments into focused ones.",
+		"para1": "Patients fill a symptom form before they walk in. PatientBridge generates a structured AI summary, flags red flags, and gives the doctor full context before the consultation even starts turning 3 minute appointments into focused ones.",
 		"href1": "Try PatientBridge →",
 		"url1": "https://patient-bridge-git-vercel-react-se-ac5327-yash1raj234s-projects.vercel.app/",
 		"bgColor1": "#260A2F",
@@ -35,7 +35,7 @@
 		"title2": "Next.js · FastAPI · PostgreSQL · Redis (Upstash) · Playwright · PRAW · Gemini API · Resend · APScheduler · Docker · Railway · Vercel",
 		"heading3": "DB",
 		"heading4": "Design",
-		"para2": "Describe your database in natural language. DBDesign generates a live ERD diagram, SQL migrations, a Prisma schema, and DBML — ready to ship.",
+		"para2": "Describe your database in natural language. DBDesign generates a live ERD diagram, SQL migrations, a Prisma schema, and DBML ready to ship.",
 		"href2": "Start your DB →",
 		"url2": "https://db-design-five.vercel.app/",
 		"bgColor2": "#9FE870",
@@ -44,7 +44,7 @@
 		"title3": "Next.js · FastAPI · Terraform · Docker · Jinja2 · Monaco Editor · Supabase · AWS ECS · Prometheus · Grafana · GitHub Actions · Railway",
 		"heading5": "RoastMy",
 		"heading6": "Code",
-		"para3": "Paste your code. Let our AI tear it apart. Receive a savage, hilarious, surprisingly useful roast. Ship better code — or at least laugh about the bad kind.",
+		"para3": "Paste your code. Let our AI tear it apart. Receive a savage, hilarious, surprisingly useful roast. Ship better code or at least laugh about the bad kind.",
 		"href3": "Get Roasted →",
 		"url3": "https://roast-my-code-six.vercel.app/",
 		"bgColor3": "#163300",
@@ -53,7 +53,7 @@
 		"title4": "Next.js · FastAPI · PostgreSQL · Supabase · Claude API · WeasyPrint · Twilio · Docker · AWS S3 · Terraform · Prometheus · GitHub Actions",
 		"heading7": "Support",
 		"heading8": "Snap",
-		"para4": "Our mission is to help SaaS teams deliver instant, accurate support using AI that knows your product inside-out. No setup, no training, just paste your URL.",
+		"para4": "Our mission is to help SaaS teams deliver instant, accurate support using AI that knows your product inside out. No setup, no training, just paste your URL.",
 		"href4": "See how it works →",
 		"url4": "https://support-snap-frontend.vercel.app/",
 		"bgColor4": "#320707",
@@ -63,7 +63,7 @@
 	"sliderContent": {
 		"sliderHeading1": "The full stack, for real",
 		"sliderHeading2": "Not a specialist. Not a generalist. The engineer who does both, and ships.",
-		"sliderHeading3": "I don't pick a lane. I own the entire road — from the pixel on your screen to the server handling the request, to the pipeline that deployed it at 2am without waking anyone up.",
+		"sliderHeading3": "I don't pick a lane. I own the entire road from the pixel on your screen to the server handling the request, to the pipeline that deployed it at 2am without waking anyone up.",
 		"title1": "Build.",
 		"heading1": " Frontend that actually looks good.",
 		"para1": "React, Tailwind, Framer Motion, and GSAP. I build interfaces that are fast, responsive, and animated  the kind users screenshot and send to their designer friends. No templates, no UI kits. Everything from scratch, with intent.",
@@ -78,17 +78,17 @@
 		"para4": " Terraform, AWS, and cloud architecture designed for reliability. I provision entire environments from scratch VPCs, RDS instances, Lambda functions, S3 buckets, IAM roles  with one command, versioned, repeatable, and auditable.",
 		"title5": "Automate.",
 		"heading5": "AI that does the work for you.",
-		"para5": " OpenAI API, LangChain, RAG pipelines, and n8n workflows. I build systems that think, decide, and act on their own — from AI research agents that deliver reports to Telegram, to LLM powered DevOps assistants that handle incidents without waking anyone up."
+		"para5": " OpenAI API, LangChain, RAG pipelines, and n8n workflows. I build systems that think, decide, and act on their own from AI research agents that deliver reports to Telegram, to LLM powered DevOps assistants that handle incidents without waking anyone up."
 	},
 	"ourImpactContent": {
 		"ourImpactHeading1": "Real world. Real systems. Real stakes.",
 		"ourImpactHeading2": "I don't have side project experience. I have production experience  on systems real users depend on, every day",
 		"title1": "I built a full property recommendation engine with FastAPI, PostgreSQL, and Redis  a system estimated at 3 months. I shipped it in 6 weeks, cut search latency by 45%, and did it on India's largest proptech platform with millions of users depending on it every single day.",
 		"heading1": "NoBroker Technologiest",
-		"para1": "Role: Software Developer Intern (Nov 2025 – Feb 2026)",
+		"para1": "Role: Software Developer Intern (Nov 2025 to Feb 2026)",
 		"title2": "I owned entire feature pipelines end to end GitHub Actions CI/CD, ArgoCD GitOps, Canary deployments on AWS EKS with Prometheus driven automatic rollback. Deployment failures dropped 40%. API response times improved 35%. Not in staging. In production.",
 		"heading2": "NexTalk",
-		"para2": "Role: Back End & DevOps Engineer Intern(May 2025 – Oct 2025)"
+		"para2": "Role: Back End & DevOps Engineer Intern(May 2025 to Oct 2025)"
 	},
 	"footerContent": {
 		"footerHeading1": "The world is not waiting for permission. Every great system, every product that changed how people live  it was built by someone who simply refused to believe it couldn't be done. I am that person. Are you?",
